@@ -1,0 +1,36 @@
+body {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  text-shadow: 0 1px 2px rgba(33, 33, 33, 0.8);
+  background-color: black;
+}
+
+iframe {
+  border: 0;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+
+.div-label {
+  background-color: rgba(0, 0, 0, 0.2);
+  margin: 0;
+  position: absolute;
+  width: 500px;
+  left: 0;
+  top: 0;
+}
+
+.div-label p {
+  margin: 0;
+}
+
+.label {
+  font-size: 80px;
+}
+
+.tags {
+  font-size: 25px;
+}
